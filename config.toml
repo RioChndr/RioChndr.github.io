@@ -1,0 +1,26 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Kenichi Blog"
+theme = "PaperMod"
+disqusShortname = 'kenichi-1'
+
+[params.homeInfoParams]
+Title = "Hi there 👋 My name is Rio Chandra"
+Content = "My blog to share anything. [My portfolio](/posts/portfolio/)"
+
+[[params.socialIcons]]
+name = "facebook"
+url = "https://www.facebook.com/riochndr726/"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/RioChndr"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[params]
+ShowShareButtons = true
+ShowReadingTime = true
+ShowBreadCrumbs = true
+comments = true

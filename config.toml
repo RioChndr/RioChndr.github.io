@@ -1,8 +1,9 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Kenichi Blog"
+title = "Stay Curoius Blog"
 theme = "PaperMod"
 disqusShortname = 'kenichi-1'
+googleAnalytics = 'G-FW43VY3B4Q'
 
 [params.homeInfoParams]
 Title = "Hi there 👋 My name is Rio Chandra"

@@ -2,6 +2,10 @@
 title: "Kenapa Akunku Dihack"
 date: 2022-11-10T15:20:51+07:00
 draft: false
+cover:
+  image: 'time-to-crack-passwd.jpeg'
+  alt: 'time-to-crack-passwd.jpeg'
+  relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 Kenapa akunku bisa dihack ?
@@ -16,10 +20,6 @@ Jika anda menyalahkan aplikasi yang digunakan punya cela untuk membuka akun mu, 
 Aplikasi besar seperti google, youtube, twitter, facebook, netflix, _you name it._ Sudah menggunakan security tingkat tinggi untuk menyimpan data pribadi mu, semuanya disimpan dalam layer-layer yang sangat tebal untuk di jebol. Sangat keciiiil sekali kemungkinan data kamu diambil dari database seperti kasus [tokopedia](https://www.cnbcindonesia.com/tech/20200504094139-37-155966/bahaya-lain-dari-tokopedia-di-hack-91-juta-data-bocor).
 
 Tapi, walaupun di hack dan diambil data kamu dari database seperti tokopedia. PASSWORD KAMU TETAP AMAN !!. Itulah kekuatan dari [Hashing](https://id.wikipedia.org/wiki/Hash). Walaupun hacker ambil password kamu dari database, mereka harus memakan waktu yang cukup lama untuk menemukan password kamu yang sebenarnya. TAPI !, kalau password kamu lemah seperti “rio123”, “12345678”, “password123”. Cukup hitungan menit untuk hack akun kamu !
-
-Lihat table berikut
-
-![Time to crack password](/image/time-to-crack-passwd.jpeg)
 
 Solusi : Forget password
 ========================

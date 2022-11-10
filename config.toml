@@ -1,13 +1,13 @@
-baseURL = "http://example.org/"
+baseURL = "https://riochndr.github.io/"
 languageCode = "en-us"
-title = "Stay Curoius Blog"
+title = "Stay Curious Blog | Rio Chandra"
 theme = "PaperMod"
 disqusShortname = 'kenichi-1'
 googleAnalytics = 'G-FW43VY3B4Q'
 
 [params.homeInfoParams]
-Title = "Hi there 👋 My name is Rio Chandra"
-Content = "My blog to share anything. [My portfolio](/posts/portfolio/)"
+Title = "Stay Curious. Stay Positive"
+Content = "My blog to share anything. [About writer](/about/)"
 
 [[params.socialIcons]]
 name = "facebook"
@@ -16,6 +16,14 @@ url = "https://www.facebook.com/riochndr726/"
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/RioChndr"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/rio_chndr"
+
+[[params.socialIcons]]
+name = "instagram"
+url = "https://www.instagram.com/rio_chndr/"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]

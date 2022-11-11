@@ -33,3 +33,15 @@ ShowShareButtons = true
 ShowReadingTime = true
 ShowBreadCrumbs = true
 comments = true
+
+[[menu.main]]
+identifier = "About"
+name = "About Me"
+url = "/about/"
+weight = 30
+
+[[menu.main]]
+identifier = "Search"
+name = "Search"
+url = "/search/"
+weight = 30

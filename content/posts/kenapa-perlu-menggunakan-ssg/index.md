@@ -53,6 +53,23 @@ Memiliki ruang sendiri untuk berkarya dan berekspresi menjadi sebuah perasaan ya
 
 Karena konten hanya berupa dokumen HTML, server tidak perlu mengolah apa-apa selain mengirimkan dokumen HTML. Proses ini lebih cepat dibandingkan biasanya. Pengalaman user yang akan membaca blog akan lebih nyaman karena konten yang diinginkannya cepat diproses. [15 seconds Rule](https://www.crazyegg.com/blog/why-users-leave-a-website/) adalah aturan yang membuat user meninggalkan website setelah 15 detik. User tidak ingin menunggu lama, ia akan mencari website lain jika website tujuannya butuh waktu lama untuk *load*. SSG memotong waktu proses di server menyebabkan proses menjadi lebih cepat.
 
+## Cara Memulai
+
+Untuk membuat SSG anda hanya perlu memilih tools yang akan digunakan, [Jamstack site generator](https://jamstack.org/generators/) memiliki daftar tools untuk membuat *static site generator*.
+Saya akan coba memilih [Hugo](https://gohugo.io/) sebagai *static site generator* yang paling populer.
+
+1. Install hugo dari [dokumentasi hugo](https://gohugo.io/installation/)
+2. Buat website baru dengan perintah `hugo new site blog-saya`
+3. Pilih tema, Ikuti step-step [memasukkan tema ke hugo](https://gohugo.io/getting-started/quick-start/#step-3-add-a-theme)
+4. Tambah konten dengan perintah `hugo new posts/my-first-post.md`
+5. Jalankan server dengan perintah `hugo server -D`
+
+![ss file](./ss-file.png)
+
+Setelah berhasil membuat postingan, selanjutnya lakukan deployment. Pastikan simpan ke repository github/gitlab untuk penyimpanan blog. Ada banyak [opsi deployment dari hugo](https://gohugo.io/hosting-and-deployment/), seperti [github](https://gohugo.io/hosting-and-deployment/hosting-on-github/), vercel, [netlify](https://gohugo.io/hosting-and-deployment/hosting-on-github/). Semua hosting static file ini **gratis**, kamu tidak perlu menyiapkan server hosting dan database yang besar untuk memulai.
+
+Selanjutnya untuk membuat postingan cukup tulis `hugo new posts/my-second-post.md`. Untuk menulis konten di markdown, pelajari markdown di [markdowntutorial.com](https://www.markdowntutorial.com/).
+
 ## SSG Jadi pilihan terbaik ?
 
 ![no](https://media.giphy.com/media/d1E1msx7Yw5Ne1Fe/giphy.gif)

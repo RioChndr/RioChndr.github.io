@@ -38,7 +38,7 @@ comments = true
 identifier = "About"
 name = "About Me"
 url = "/about/"
-weight = 30
+weight = 20
 
 [[menu.main]]
 identifier = "Search"

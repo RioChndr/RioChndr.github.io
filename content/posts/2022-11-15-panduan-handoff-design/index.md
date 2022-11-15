@@ -1,5 +1,5 @@
 ---
-title: "Designer ke Developer Handoff"
+title: "Panduan Handoff Design ke Developer"
 date: 2022-11-15T21:27:41+07:00
 draft: false
 cover:
@@ -8,7 +8,7 @@ cover:
   relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
-# Panduan Handoff Designer ke Developer
+# Panduan Handoff Design ke Developer
 
 Saat ini Desain aplikasi tidak pernah semudah ini dari pada sebelumnya. Sudah banyak aplikasi seperti [Figma](https://figma.com) atau [adobe xd](https://adobe.com) yang memiliki fitur *Realtime collaboration*, ini memudahkan developer yang tidak perlu menunggu desain selesai sepenuhnya dan bisa langsung kolaborasi secara *realtime*.
 

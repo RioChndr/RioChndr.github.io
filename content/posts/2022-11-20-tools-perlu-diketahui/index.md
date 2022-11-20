@@ -64,6 +64,7 @@ cover:
 - [Jira](https://atlassian.com)
 - [ClickUp.com](https://clickup.com)
 - [Asana](https://asana.com)
+- [Jetbrains YouTrack](https://www.jetbrains.com/youtrack)
 
 ## Automation Languange/tools
 

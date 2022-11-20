@@ -3,7 +3,7 @@ title: "Kenapa Perlu Menggunakan Static Site Generator Untuk Blogmu Selanjutnya?
 date: 2022-11-11T18:37:52+07:00
 draft: false
 cover:
-  image: 'static-side.png'
+  image: 'thumbnail.png'
   relative: true
 ---
 

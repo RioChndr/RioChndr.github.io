@@ -7,9 +7,9 @@ editPost:
     Text: "Saran edit" # edit text
     appendFilePath: true # to append file path to Edit link
 cover:
-  image: ""
+  image: "cover.png"
   alt: ""
-  relative: false # To use relative path for cover image, used in hugo Page-bundles
+  relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 ## Code Editor

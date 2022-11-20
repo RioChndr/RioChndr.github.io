@@ -1,4 +1,6 @@
 {{- /* Footer custom content area start */ -}}
 {{- /*     Insert any custom code web-analytics, resources, etc. here */ -}}
 {{- /* Footer custom content area end */ -}}
-{{ template "_internal/google_analytics.html" . }}
+{{ if not .Site.IsServer }}
+  {{ template "_internal/google_analytics.html" . }}
+{{ end }}

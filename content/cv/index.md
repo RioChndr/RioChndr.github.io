@@ -8,6 +8,8 @@ cover:
   relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
+**Language** : [Indonesia](/cv), [English](/cv-en)
+
 # Tentang Rio Chandra
 
 Nama Rio Chandra, lahir tahun 1999, berjenis kelamin laki-laki.

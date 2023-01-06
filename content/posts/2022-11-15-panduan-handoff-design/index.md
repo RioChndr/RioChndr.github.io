@@ -2,6 +2,7 @@
 title: "Panduan Handoff Design ke Developer"
 date: 2022-11-15T21:27:41+07:00
 draft: false
+tags: ['Development', 'Blogging', 'Tips']
 cover:
   image: "thumbnail.png"
   alt: "handoff design"

@@ -6,6 +6,7 @@ editPost:
     URL: "https://github.com/RioChndr/RioChndr.github.io/tree/main/content"
     Text: "Saran edit" # edit text
     appendFilePath: true # to append file path to Edit link
+tags: ['Development', 'Blogging']
 cover:
   image: "cover.png"
   alt: ""

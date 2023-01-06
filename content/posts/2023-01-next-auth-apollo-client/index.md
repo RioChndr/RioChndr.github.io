@@ -1,7 +1,9 @@
 ---
 title: "Kombinasi Next-auth dan Apollo Client"
 date: 2023-01-06T08:33:56+07:00
-draft: true
+draft: false
+tags: ['Development', 'Blogging', 'Nextjs', 'Apollo', 'Graphql']
+categories: ['categories1']
 cover:
   image: ""
   alt: ""

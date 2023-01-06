@@ -33,12 +33,26 @@ ShowShareButtons = true
 ShowReadingTime = true
 ShowBreadCrumbs = true
 comments = true
+ShowPostNavLinks = true
+ShowCodeCopyButtons = true
 
 [[menu.main]]
 identifier = "About"
 name = "About Me"
-url = "/about/"
+url = "/cv-en/"
 weight = 20
+
+[[menu.main]]
+identifier = "Archives"
+name = "Archives"
+url = "/archives/"
+weight = 22
+
+[[menu.main]]
+identifier = "Tags"
+name = "Tags"
+url = "/tags/"
+weight = 23
 
 [[menu.main]]
 identifier = "Search"

@@ -2,6 +2,7 @@
 title: "Cara Meminta Api Docs ke Developer Backend dari Developer Frontend"
 date: 2022-11-10T23:08:15+07:00
 draft: false
+tags: ['Development', 'Blogging', 'Tips']
 cover:
   image: "arisa-chattasa-0LaBRkmH4fM-unsplash.jpg"
   alt: "arisa-chattasa-0LaBRkmH4fM-unsplash.jpg unsplash"

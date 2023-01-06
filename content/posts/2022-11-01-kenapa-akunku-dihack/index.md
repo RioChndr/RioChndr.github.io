@@ -2,6 +2,7 @@
 title: "Kenapa Akunku Dihack"
 date: 2022-11-10T15:20:51+07:00
 draft: false
+tags: ['Development', 'Info', 'Tips']
 cover:
   image: 'time-to-crack-passwd.jpeg'
   alt: 'time-to-crack-passwd.jpeg'

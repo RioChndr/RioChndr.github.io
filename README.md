@@ -1,6 +1,6 @@
 # Stay Corious | Rio Chandra Blog
 
-## Open page [riochndr.github.io](https://riochndr.github.io)
+## Open page [riochndr.com](https://riochndr.com)
 
 <hr />
 

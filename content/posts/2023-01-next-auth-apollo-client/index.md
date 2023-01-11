@@ -5,11 +5,11 @@ draft: false
 tags: ['Development', 'Blogging', 'Nextjs', 'Apollo', 'Graphql']
 categories: ['categories1']
 cover:
-  image: ""
-  alt: ""
-  relative: false # To use relative path for cover image, used in hugo Page-bundles
+  image: "thumbnail.png"
+  relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
+![]()
 ## Next-auth
 
 [Next auth](https://next-auth.js.org/) adalah authentikasi untuk nextjs. Sangat powerfull dengan fitur yang ditawarkan

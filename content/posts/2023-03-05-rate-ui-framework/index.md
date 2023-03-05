@@ -308,8 +308,6 @@ Dokumentasi dapat diakses di website tersedia cukup lengkap, tidak ada halaman y
 
 ### Is Support ...?
 
-> Pada dasarnya flowbite menggunakan tailwind, maka ketersediaan fitur ini tergantung tailwindcss
-
 - Is support Server-side Rendering (SSR) ? : No
 - Is support Typescript ? : yes
 - Is support Dark Mode ? : yes
@@ -382,8 +380,6 @@ Dokumentasi dapat diakses di website tersedia cukup lengkap, tidak ada halaman y
 
 ### Is Support ...?
 
-> Pada dasarnya flowbite menggunakan tailwind, maka ketersediaan fitur ini tergantung tailwindcss
-
 - Is support Server-side Rendering (SSR) ? : yes
 - Is support Typescript ? : yes
 - Is support Dark Mode ? : yes
@@ -426,8 +422,6 @@ Jika kamu berasal dari programmer website yang mendesain website menggunakan css
 Dokumentasi dapat diakses di website tersedia cukup lengkap, tidak ada halaman yang *Not found* atau *sedang pengerjaan*. Dokumentasi mulai dari instalasi, penggunanaan komponen, hingga changelog sudah tersedia.
 
 ### Is Support ...?
-
-> Pada dasarnya flowbite menggunakan tailwind, maka ketersediaan fitur ini tergantung tailwindcss
 
 - Is support Server-side Rendering (SSR) ? : no
 - Is support Typescript ? : no

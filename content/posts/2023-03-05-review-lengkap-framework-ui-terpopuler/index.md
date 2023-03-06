@@ -1,11 +1,11 @@
 ---
-title: "Menuju Pengembangan Website yang Lebih Efisien: Review Lengkap Framework UI Terpopuler"
+title: "Review Lengkap Framework UI Terpopuler"
 date: 2023-03-05T22:14:32+07:00
 draft: false
 ShowToc: true
 cover:
   image: "cover.png"
-  alt: "Menuju Pengembangan Website yang Lebih Efisien: Review Lengkap Framework UI Terpopuler"
+  alt: "Review Lengkap Framework UI Terpopuler"
   relative: true
 ---
 
@@ -21,6 +21,17 @@ Tentunya, sebagai pembaca, Anda mungkin bertanya-tanya apa manfaat membaca blog 
 4. Dapat membandingkan beberapa framework website UI sehingga Anda dapat memilih yang terbaik sesuai kebutuhan Anda.
 
 Beberapa framework UI yang saya review bisa periksa pada *Table of Contents*, kamu bisa pilih framework mana yang ingin kamu baca dan bandingkan.
+
+- [Mantine](#mantine)
+- [daisyUI](#daisyui)
+- [Flowbite](#flowbite)
+- [HeadlessUI](#headlessui)
+- [Chakra UI](#chakra-ui)
+- [Tailwindcss](#tailwindcss)
+
+> Note : Artikel ini akan terus di update setiap ada fraemwork website UI yang populer baru.
+> 
+> *Beberapa data seperti Stars Github dan NPM weekly download hanya diambil ketika artikel ini ditulis, kemungkinan ada perubahan jumlah angka mohon dimaklumi.*
 
 ## Mantine
 
@@ -107,7 +118,7 @@ Dokumentasi dapat diakses di website tersedia cukup lengkap, tidak ada halaman y
 
 ## daisyUI
 
-Kategori : Library UI
+Kategori : Library UI, Tailwindcss Component
 
 Website : [https://daisyui.com/](https://daisyui.com/)
 
@@ -181,7 +192,7 @@ Dokumentasi dapat diakses di website tersedia cukup lengkap, tidak ada halaman y
 
 ## Flowbite
 
-Kategori : Library UI
+Kategori : Tailwindcss Component
 
 Website : [https://flowbite.com/](https://flowbite.com/)
 
@@ -244,7 +255,7 @@ Dokumentasi dapat diakses di website tersedia cukup lengkap, tidak ada halaman y
 
 ## HeadlessUI
 
-Kategori : Library UI
+Kategori : Library UI, tailwindcss base
 
 Website : [https://headlessui.com/](https://headlessui.com/)
 
@@ -315,9 +326,10 @@ Dokumentasi dapat diakses di website tersedia cukup lengkap, tidak ada halaman y
 
 
 
+--------------------------------------------------------------------------------------
 ## Chakra UI
 
-Kategori : Library UI
+Kategori : Library UI Reactjs
 
 Website : [https://chakra-ui.com/](https://chakra-ui.com/)
 
@@ -385,7 +397,7 @@ Dokumentasi dapat diakses di website tersedia cukup lengkap, tidak ada halaman y
 - Is support Dark Mode ? : yes
 - Is support Right-to-Left (RTL) ? : yes
 
-
+--------------------------------------------------------------------------------------
 
 ## Tailwindcss
 

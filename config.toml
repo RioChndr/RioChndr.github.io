@@ -39,7 +39,7 @@ ShowCodeCopyButtons = true
 [[menu.main]]
 identifier = "About"
 name = "About Me"
-url = "/cv-en/"
+url = "/cv/"
 weight = 20
 
 [[menu.main]]

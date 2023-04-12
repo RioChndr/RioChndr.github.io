@@ -8,24 +8,47 @@ cover:
   relative: true
 ---
 
-# About Rio Chandra
+# Rio Chandra
 
-Looking for a dynamic, results-driven Senior Web Programmer? Meet Rio Chandra - an innovative and experienced programmer who's passionate about helping businesses thrive online.
+**Fullstack Developer**, **Team Lead**, **Freelancer**
 
-With over 7 years of experience in PHP, JS, and Python programming languages, Rio has a track record of designing website architecture that drives results. He's helped thousands of satisfied users - including [Mydigilearn](https://mydigilearn.id) and [Inatti](https://inatti.id) - achieve their online goals with his cutting-edge applications and websites.
+**Summary** : Rio Chandra is a Fullstack Developer, Team Lead, and Freelancer with over 7 years of experience in PHP, JS, and Python programming languages. I have designed website architecture that has driven results for thousands of satisfied users, including Mydigilearn and Inatti. I'm skilled in designing website architecture that drives results, knowledgeable in the latest technologies and techniques, and have experience working with RESTful APIs and GraphQL. I'm proficient in React.js, Vue.js, and Node.js with over 2 years of hands-on experience, and are skilled in building scalable and maintainable applications using Nest.js framework. I has a strong understanding of front-end technologies such as HTML, CSS, and JavaScript.
 
-Rio's expertise isn't limited to programming, however. He's a dedicated learner, staying up-to-date with the latest technologies and techniques to ensure his clients have the competitive edge they need to succeed. He's also a natural teacher, sharing his knowledge through his blog and video tutorials and developing products that solve problems for his clients.
+-----
 
-If you're looking for a programmer who's not only skilled but also focused on your needs, Rio Chandra is the right choice for you. Whether you need a new website, a custom application, or ongoing support, Rio is committed to delivering exceptional results that help your business thrive.
+**Experience**:
+
+- Over 7 years of experience in PHP, JS, and Python programming languages.
+- Designed website architecture that drove results for thousands of satisfied users, including [Mydigilearn](https://mydigilearn.id) and [Inatti](http://inatti.id/).
+- Stayed up-to-date with the latest technologies and techniques to ensure clients have the competitive edge they need to succeed.
+- Shared knowledge through blog and video tutorials and developed products that solved problems for clients.
+
+**Skills**:
+
+- Proficient in PHP, JS, and Python programming languages.
+- Skilled in designing website architecture that drives results.
+- Knowledgeable in the latest technologies and techniques.
+
+**Technical Skills**:
+
+- Proficient in React.js, vue.js and Node.js with over 2 years of hands-on experience.
+- Skilled in building scalable and maintainable applications using Nest.js framework.
+- Familiar with Git version control system and Agile software development methodologies.
+- Experience working with RESTful APIs and GraphQL.
+- Strong understanding of front-end technologies such as HTML, CSS, and JavaScript.
+
+If you're looking for a results-driven Senior Web Programmer with over 7 years of experience, skilled in designing website architecture that drives results and knowledgeable in the latest technologies and techniques, I would be happy to discuss how I can help your business thrive online.
 
 ---------
 
 ## My Product
 
-- 🚀 [Etika Chat Dosen App](https://play.google.com/store/apps/details?id=com.ken.chat_dosen_helper.release1&hl=en_US&gl=US) **More >10K downloads**. Discovered [Liputan6](https://www.liputan6.com/tekno/read/4450176/unik-Aplikasi-etika-chat-dosen-yang-menuntungkan-keresahan-mahasiswa), [Grid.id](https://hai.grid.id/read/072500277/wah-ada-application-create-chat-ke-dosen-buat-mahasiswa-nggak-ada-akhlak?page=all), [anakteknik.id](https://www.anakteknik.co.id/doohanas/articles/etika-chat-dosen-Aplikasi-yang-menjuang-kegelisahan-mahasiswa-saat-ini), [Ngobrolin.id](https://www.ngobrolin.id/bingung-cara-chat-dosen-yang-benar-aplikasi-ini-siap-membantu-kamu/), [mainmain.id](https://www.mainmain.id/r/9729/application-etika-chat-dosen-simple-solution-if-confused-string-words). **Tech : Flutter**
-- 🤣 [Jaksel Language](https://github.com/RioChndr/jaksel-language). South Jakarta Programming Language. More >800 Stars. **Tech : Javascript, Nodejs**
-- ⌚ [Pray time Website](https://github.com/RioChndr/pray-time-website). Pray time display website. **Tech : Javascript**
-- 🤖 [Vehicle Counters AI Object Detection App](https://github.com/RioChndr/object-detection-app). 2020 college final project. **Tech: Python**
+In spare time, I create some product to help people. Here is some of my product.
+
+- [Etika Chat Dosen App](https://play.google.com/store/apps/details?id=com.ken.chat_dosen_helper.release1&hl=en_US&gl=US) **More >10K downloads**. Discovered [Liputan6](https://www.liputan6.com/tekno/read/4450176/unik-Aplikasi-etika-chat-dosen-yang-menuntungkan-keresahan-mahasiswa), [Grid.id](https://hai.grid.id/read/072500277/wah-ada-application-create-chat-ke-dosen-buat-mahasiswa-nggak-ada-akhlak?page=all), [anakteknik.id](https://www.anakteknik.co.id/doohanas/articles/etika-chat-dosen-Aplikasi-yang-menjuang-kegelisahan-mahasiswa-saat-ini), [Ngobrolin.id](https://www.ngobrolin.id/bingung-cara-chat-dosen-yang-benar-aplikasi-ini-siap-membantu-kamu/), [mainmain.id](https://www.mainmain.id/r/9729/application-etika-chat-dosen-simple-solution-if-confused-string-words). **Tech : Flutter**
+- [Jaksel Language](https://github.com/RioChndr/jaksel-language). South Jakarta Programming Language. More >800 Stars. **Tech : Javascript, Nodejs**
+- [Pray time Website](https://github.com/RioChndr/pray-time-website). Pray time display website. **Tech : Javascript**
+- [Vehicle Counters AI Object Detection App](https://github.com/RioChndr/object-detection-app). 2020 college final project. **Tech: Python**
 - [2048 Multiplayer Game](https://github.com/RioChndr/R-multiplayer-2048). **Tech : Javascript**
 - [Tic Tac Toe Python](https://github.com/RioChndr/tic-tac-toe-python). **Tech : Python**
 - [TTS Generator Python](https://github.com/RioChndr/TTS-Generator-Python). **Tech : Python**
@@ -35,10 +58,9 @@ If you're looking for a programmer who's not only skilled but also focused on yo
 
 ---------
 
-## Work experience
+## Professional Experience
 
-### Freelancing
-
+### Freelance/remote
 
 #### Projects
 
@@ -50,26 +72,46 @@ If you're looking for a programmer who's not only skilled but also focused on yo
 
 ### [Unity](https://www.unity.dev/) (2023-present)
 
-Senior Fullstack Developer, Team lead
+**Senior Fullstack Developer, Team lead**
+
+- As senior fullstack developer, I create and maintain the company website, and also create and maintain the company blog. I also create and maintain the company website builder. I also lead designing architecture for the website and using monorepo to manage the codebase.
+- Worked remotely as part of a global team, demonstrating excellent time management skills and ability to work independently.
+- Successfully completed 5 projects in a remote role, delivering high-quality work within tight deadlines.
+- Communicated effectively with team members across different time zones, utilizing various communication channels, including video conferencing and instant messaging tools.
+- Demonstrated flexibility and adaptability, working on different projects and collaborating with team members from diverse backgrounds and cultures.
+- Developed and maintained strong working relationships with clients, providing regular updates on project progress and addressing any concerns or issues promptly.
 
 #### Projects
 
 - [Unity](https://www.unity.dev/). 2023 Website company profile. work as fullstack developer. **Tech : ReactJs, Nextjs, Postgresql**
 - [Unity Sites](https://unity.ws/). 2023 Web builder blog. Work as fullstack developer **Tech : ReactJs, Nextjs, Postgresql, Hasura**
 - [Ussunnah](https://ussunnah.org/). 2023 The us-Sunnah Foundation. Work as fullstack developer **Tech : ReactJs, Nextjs, Postgresql**
+- [Topislamic](https://topislamic.net/), 2023. **Tech : ReactJs, Nextjs, Postgresql**
+- [Unity charity](https://unity.charity/), 2023. **Tech : ReactJs, Nextjs, Postgresql**
+
 
 ### [Sahaware](https://sahaware.co.id) (2020-2023)
 
-Senior Fullstack Developer, Team Lead
+**Senior Fullstack Developer, Team Lead**
+
+- As senior fullstack developer and team lead, I create and maintain the company website, [inatti](https://inatti.id) website, and other website. I also manage team design, frontend, and backend. I also lead designing architecture for the website, using monorepo to manage the codebase and create clear documentation for the team, client, and future team.
+- Successfully completed 5 projects, delivering high-quality work within tight deadlines.
+- Demonstrated excellent communication skills in a remote team environment, actively participating in team meetings and keeping team members informed of project progress.
+- Collaborated with cross-functional teams, including designers and developers, to achieve project objectives and ensure timely delivery of projects.
+- Utilized various project management tools, including Trello and gitlab task management, to effectively manage projects and track progress.
+- Maintained regular communication with clients, providing updates on project progress and addressing any concerns or issues promptly.
+- Proactively identified and resolved issues, working with team members and clients to find effective solutions.
+- Designing application and database architectures.
+- Develop CI/CD to assist deployment.
+- Provide education to the team
+
 #### Projects
 
-- 🎨 [Sahaware.co.id](https://sahaware.co.id/en). 2020 website company profile. Work as frontend and website designer. **Tech : Vuejs**
-- 🎨 [Klinikdigital.id](https://klinikdigital.id/). 2020 website company profile. Work as frontend and website designer. **Tech : Vuejs**
-- 🎨 [mydigilearn.id](https://mydigilearn.id/). 2020-2021 Digital tool that connects learners and experts. Work as Frontend Developer. **Tech : Vuejs**
-- 🧑‍💻 [Inatti.id](https://app.inatti.id). 2021-2022 Test covid and tracing website. Work as Team lead and full stack developer. **Tech : Vuejs, Nestjs**
-- Designing application and database architectures. **Tech : Postgresql**
-- Develop CI/CD to assist deployment. **Tech : Gitlab CI**
-- Provide education to the team
+- [Sahaware.co.id](https://sahaware.co.id/en). 2020 website company profile. Work as frontend and website designer. **Tech : Vuejs**
+- [Klinikdigital.id](https://klinikdigital.id/). 2020 website company profile. Work as frontend and website designer. **Tech : Vuejs**
+- [mydigilearn.id](https://mydigilearn.id/). 2020-2021 Digital tool that connects learners and experts. Work as Frontend Developer. **Tech : Vuejs**
+- [Inatti.id](https://app.inatti.id). 2021-2022 Test covid and tracing website. Work as Team lead and full stack developer. **Tech : Vuejs, Nestjs**
+
 
 ---------
 

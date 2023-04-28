@@ -3,8 +3,8 @@ title: "Curriculum Vitae Rio Chandra"
 date: 2022-12-02T16:52:22+07:00
 draft: false
 cover:
-  image: "rio-chandra.jpeg"
-  alt: "Rio Chandra"
+  image: "cv-thumbnail.jpg"
+  alt: "CV thumbnail Rio Chandra"
   relative: true
 ---
 
@@ -13,6 +13,14 @@ cover:
 **Fullstack Developer**, **Team Lead**, **Freelancer**
 
 **Summary** : Rio Chandra is a Fullstack Developer, Team Lead, and Freelancer with over 7 years of experience in PHP, JS, and Python programming languages. I have designed website architecture that has driven results for thousands of satisfied users, including Mydigilearn and Inatti. I'm skilled in designing website architecture that drives results, knowledgeable in the latest technologies and techniques, and have experience working with RESTful APIs and GraphQL. I'm proficient in React.js, Vue.js, and Node.js with over 2 years of hands-on experience, and are skilled in building scalable and maintainable applications using Nest.js framework. I has a strong understanding of front-end technologies such as HTML, CSS, and JavaScript.
+
+-----
+
+## Portfolio
+
+See more my portfolio at [Rio Chandra Portfolio](/portfolio)
+
+[![Portfolio Riochandra](../portfolio/images/cover-portfolio.png)](/portfolio)
 
 -----
 
@@ -43,6 +51,8 @@ If you're looking for a results-driven Senior Web Programmer with over 7 years o
 
 ## My Product
 
+[![Portfolio personal project](../portfolio/images/portfolio-personal-project.png)](/portfolio)
+
 In spare time, I create some product to help people. Here is some of my product.
 
 - [Etika Chat Dosen App](https://play.google.com/store/apps/details?id=com.ken.chat_dosen_helper.release1&hl=en_US&gl=US) **More >10K downloads**. Discovered [Liputan6](https://www.liputan6.com/tekno/read/4450176/unik-Aplikasi-etika-chat-dosen-yang-menuntungkan-keresahan-mahasiswa), [Grid.id](https://hai.grid.id/read/072500277/wah-ada-application-create-chat-ke-dosen-buat-mahasiswa-nggak-ada-akhlak?page=all), [anakteknik.id](https://www.anakteknik.co.id/doohanas/articles/etika-chat-dosen-Aplikasi-yang-menjuang-kegelisahan-mahasiswa-saat-ini), [Ngobrolin.id](https://www.ngobrolin.id/bingung-cara-chat-dosen-yang-benar-aplikasi-ini-siap-membantu-kamu/), [mainmain.id](https://www.mainmain.id/r/9729/application-etika-chat-dosen-simple-solution-if-confused-string-words). **Tech : Flutter**
@@ -70,7 +80,9 @@ In spare time, I create some product to help people. Here is some of my product.
 - And many more undocumented.
 
 
-### [Unity](https://www.unity.dev/) (2023-present)
+### [Unity](https://www.unity.dev/) (2023)
+
+[![Portfolio Unity Project](../portfolio/images/portfolio-unity-dev.png)](/portfolio)
 
 **Senior Fullstack Developer, Team lead**
 
@@ -91,6 +103,8 @@ In spare time, I create some product to help people. Here is some of my product.
 
 
 ### [Sahaware](https://sahaware.co.id) (2020-2023)
+
+[![Portfolio Unity Project](../portfolio/images/portfolio-shwr-1.png)](/portfolio)
 
 **Senior Fullstack Developer, Team Lead**
 

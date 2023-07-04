@@ -2,6 +2,7 @@
 title: "I wish I know this before learn flutter"
 date: 2023-07-04T08:18:24+07:00
 draft: false
+tags: ['flutter']
 cover:
   image: ""
   alt: ""
@@ -14,8 +15,8 @@ I was learn flutter on 2020 and then 2023 re-learn. Below is cheatsheet help you
 
 ## **UI**
 
-- Don't use regular component, use [`Sliver`](https://docs.flutter.dev/ui/advanced/slivers) instead
-- Don't use regular Routing, use `go-router` instead
+- Don't use regular scroll component, use [`Sliver`](https://docs.flutter.dev/ui/advanced/slivers) instead
+- Don't use regular Routing, use [`go-router`](https://pub.dev/packages/go_router) instead
 
 ## **State Management**
 

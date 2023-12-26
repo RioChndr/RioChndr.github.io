@@ -59,3 +59,5 @@ identifier = "Search"
 name = "Search"
 url = "/search/"
 weight = 30
+
+staticDir = ['static']
